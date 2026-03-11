@@ -1,0 +1,20 @@
+[project]
+name = "hierarchy-lookup"
+version = "0.1.0"
+description = "Hierarchical reference lookup in regulatory documents using LLMs"
+requires-python = ">=3.11"
+dependencies = [
+    "openai>=1.30.0",
+    "anthropic>=0.25.0",
+    "google-generativeai>=0.8.0",
+    "sentence-transformers>=3.0.0",
+    "numpy>=1.26.0",
+]
+
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["."]

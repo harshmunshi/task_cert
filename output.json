@@ -1,0 +1,2460 @@
+[
+  {
+    "paragraphId": "63119fc8d237f3f820fbce09",
+    "hierarchy": "Introduction",
+    "full_path": "Introduction",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce0a",
+    "hierarchy": "",
+    "full_path": "Introduction",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce0b",
+    "hierarchy": "Paragraph 1",
+    "full_path": "Introduction > Paragraph 1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce0c",
+    "hierarchy": "",
+    "full_path": "Introduction > 1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce0d",
+    "hierarchy": "",
+    "full_path": "Introduction > 1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63c93998deff90a97b598981",
+    "hierarchy": "",
+    "full_path": "Introduction > 1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce0e",
+    "hierarchy": "Paragraph 2",
+    "full_path": "Introduction > Paragraph 2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce0f",
+    "hierarchy": "",
+    "full_path": "Introduction > 2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce10",
+    "hierarchy": "2.1",
+    "full_path": "Introduction > 2 > 2.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce11",
+    "hierarchy": "2.2",
+    "full_path": "Introduction > 2 > 2.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce12",
+    "hierarchy": "2.3",
+    "full_path": "Introduction > 2 > 2.3",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce13",
+    "hierarchy": "2.4",
+    "full_path": "Introduction > 2 > 2.4",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce14",
+    "hierarchy": "2.5",
+    "full_path": "Introduction > 2 > 2.5",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce15",
+    "hierarchy": "2.6",
+    "full_path": "Introduction > 2 > 2.6",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce16",
+    "hierarchy": "2.7",
+    "full_path": "Introduction > 2 > 2.7",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce17",
+    "hierarchy": "2.8",
+    "full_path": "Introduction > 2 > 2.8",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd0d3",
+    "hierarchy": "2.9",
+    "full_path": "Introduction > 2 > 2.9",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce18",
+    "hierarchy": "2.10",
+    "full_path": "Introduction > 2 > 2.10",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce19",
+    "hierarchy": "2.11",
+    "full_path": "Introduction > 2 > 2.11",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce1a",
+    "hierarchy": "2.12",
+    "full_path": "Introduction > 2 > 2.12",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce1b",
+    "hierarchy": "2.13",
+    "full_path": "Introduction > 2 > 2.13",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd11c",
+    "hierarchy": "",
+    "full_path": "Introduction > 2 > 2.13",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce1c",
+    "hierarchy": "2.14",
+    "full_path": "Introduction > 2 > 2.14",
+    "entities": [
+      "Appendix 2 to Annex 6",
+      "Appendix 2 to Annex 13"
+    ],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce1d",
+    "hierarchy": "2.15",
+    "full_path": "Introduction > 2 > 2.15",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce1e",
+    "hierarchy": "2.16",
+    "full_path": "Introduction > 2 > 2.16",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce1f",
+    "hierarchy": "2.17",
+    "full_path": "Introduction > 2 > 2.17",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd120",
+    "hierarchy": "2.18",
+    "full_path": "Introduction > 2 > 2.18",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce22",
+    "hierarchy": "Paragraph 3",
+    "full_path": "Introduction > Paragraph 3",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce23",
+    "hierarchy": "3.1",
+    "full_path": "Introduction > 3 > 3.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce24",
+    "hierarchy": "3.2",
+    "full_path": "Introduction > 3 > 3.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce25",
+    "hierarchy": "3.2.1",
+    "full_path": "Introduction > 3 > 3.2 > 3.2.1",
+    "entities": [
+      "Paragraph 2.4"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce13"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcf1b",
+    "hierarchy": "3.3",
+    "full_path": "Introduction > 3 > 3.3",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce27",
+    "hierarchy": "Paragraph 4",
+    "full_path": "Introduction > Paragraph 4",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce28",
+    "hierarchy": "4.1",
+    "full_path": "Introduction > 4 > 4.1",
+    "entities": [
+      "Paragraph 5"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce32"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce29",
+    "hierarchy": "4.2",
+    "full_path": "Introduction > 4 > 4.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce2a",
+    "hierarchy": "4.3",
+    "full_path": "Introduction > 4 > 4.3",
+    "entities": [
+      "Annex 1"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce98"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce2b",
+    "hierarchy": "4.4",
+    "full_path": "Introduction > 4 > 4.4",
+    "entities": [
+      "Annex 2"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbceac"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce2c",
+    "hierarchy": "4.4.1",
+    "full_path": "Introduction > 4 > 4.4 > 4.4.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce2d",
+    "hierarchy": "",
+    "full_path": "Introduction > 4 > 4.4 > 4.4.1",
+    "entities": [
+      "Annex 3"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbced9"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce2e",
+    "hierarchy": "4.4.2",
+    "full_path": "Introduction > 4 > 4.4 > 4.4.2",
+    "entities": [
+      "4.4.1"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce2c"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce2f",
+    "hierarchy": "4.5",
+    "full_path": "Introduction > 4 > 4.5",
+    "entities": [
+      "4.4.1"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce2c"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce30",
+    "hierarchy": "4.6",
+    "full_path": "Introduction > 4 > 4.6",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce31",
+    "hierarchy": "4.7",
+    "full_path": "Introduction > 4 > 4.7",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce32",
+    "hierarchy": "Paragraph 5",
+    "full_path": "Introduction > Paragraph 5",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce33",
+    "hierarchy": "5.1",
+    "full_path": "Introduction > 5 > 5.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce34",
+    "hierarchy": "5.1.1",
+    "full_path": "Introduction > 5 > 5.1 > 5.1.1",
+    "entities": [
+      "Paragraph 2.1"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce10"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcf2a",
+    "hierarchy": "5.1.1.1",
+    "full_path": "Introduction > 5 > 5.1 > 5.1.1 > 5.1.1.1",
+    "entities": [
+      "5.1",
+      "5.3",
+      "5.4",
+      "5.5",
+      "5.6"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce33",
+      "63119fc8d237f3f820fbce4a",
+      "63119fc8d237f3f820fbce4d",
+      "63119fc8d237f3f820fbce57",
+      "63119fc8d237f3f820fbce5f"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcf2b",
+    "hierarchy": "5.1.1.2",
+    "full_path": "Introduction > 5 > 5.1 > 5.1.1 > 5.1.1.2",
+    "entities": [
+      "5.2.1"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce40"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcf2c",
+    "hierarchy": "5.1.1.3",
+    "full_path": "Introduction > 5 > 5.1 > 5.1.1 > 5.1.1.3",
+    "entities": [
+      "5.2.2"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce45"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd0dd",
+    "hierarchy": "5.1.1.4",
+    "full_path": "Introduction > 5 > 5.1 > 5.1.1 > 5.1.1.4",
+    "entities": [
+      "5.2.3"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbd0e1"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce35",
+    "hierarchy": "5.1.2",
+    "full_path": "Introduction > 5 > 5.1 > 5.1.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce36",
+    "hierarchy": "5.1.3",
+    "full_path": "Introduction > 5 > 5.1 > 5.1.3",
+    "entities": [
+      "Annex 3"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbced9"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce37",
+    "hierarchy": "5.1.4",
+    "full_path": "Introduction > 5 > 5.1 > 5.1.4",
+    "entities": [
+      "5.2.1.1",
+      "5.2.2.1"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce41",
+      "63119fc8d237f3f820fbce46"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce38",
+    "hierarchy": "5.1.4.1",
+    "full_path": "Introduction > 5 > 5.1 > 5.1.4 > 5.1.4.1",
+    "entities": [
+      "Paragraph 5.5.4"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce5b"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce39",
+    "hierarchy": "5.1.4.1.1",
+    "full_path": "Introduction > 5 > 5.1 > 5.1.4 > 5.1.4.1 > 5.1.4.1.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce3a",
+    "hierarchy": "5.1.4.1.2",
+    "full_path": "Introduction > 5 > 5.1 > 5.1.4 > 5.1.4.1 > 5.1.4.1.2",
+    "entities": [
+      "5.1.4.1"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce38"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce3b",
+    "hierarchy": "5.1.4.2",
+    "full_path": "Introduction > 5 > 5.1 > 5.1.4 > 5.1.4.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd113",
+    "hierarchy": "5.1.4.3",
+    "full_path": "Introduction > 5 > 5.1 > 5.1.4 > 5.1.4.3",
+    "entities": [
+      "5.4.3"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce56"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce3d",
+    "hierarchy": "5.1.5",
+    "full_path": "Introduction > 5 > 5.1 > 5.1.5",
+    "entities": [
+      "5.3.1",
+      "5.3.2",
+      "5.2.1.2",
+      "5.2.2.2",
+      "5.2.3.2"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce4b",
+      "63119fc8d237f3f820fbce4c",
+      "63119fc8d237f3f820fbce42",
+      "63119fc8d237f3f820fbce47",
+      "63119fc8d237f3f820fbd0e3"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce3e",
+    "hierarchy": "5.1.6",
+    "full_path": "Introduction > 5 > 5.1 > 5.1.6",
+    "entities": [
+      "Annex 3",
+      "Appendix 2 of Annex 3"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbced9"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcf37",
+    "hierarchy": "5.1.7",
+    "full_path": "Introduction > 5 > 5.1 > 5.1.7",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce3f",
+    "hierarchy": "Paragraph 5.2",
+    "full_path": "Introduction > 5 > Paragraph 5.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce40",
+    "hierarchy": "5.2.1",
+    "full_path": "Introduction > 5 > 5.2 > 5.2.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce41",
+    "hierarchy": "5.2.1.1",
+    "full_path": "Introduction > 5 > 5.2 > 5.2.1 > 5.2.1.1",
+    "entities": [
+      "5.2.1.4",
+      "5.5.1",
+      "6.4",
+      "6.5"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce44",
+      "63119fc8d237f3f820fbce58",
+      "63119fc8d237f3f820fbce77",
+      "63119fc8d237f3f820fbce7a"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce42",
+    "hierarchy": "5.2.1.2",
+    "full_path": "Introduction > 5 > 5.2 > 5.2.1 > 5.2.1.2",
+    "entities": [
+      "6.4",
+      "6.5"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce77",
+      "63119fc8d237f3f820fbce7a"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce43",
+    "hierarchy": "5.2.1.3",
+    "full_path": "Introduction > 5 > 5.2 > 5.2.1 > 5.2.1.3",
+    "entities": [
+      "Paragraph 5.4"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce4d"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce44",
+    "hierarchy": "5.2.1.4",
+    "full_path": "Introduction > 5 > 5.2 > 5.2.1 > 5.2.1.4",
+    "entities": [
+      "5.3.2",
+      "Annex 3",
+      "paragraph 6",
+      "paragraph 6.4",
+      "paragraph 6.5"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce4c",
+      "63119fc8d237f3f820fbced9",
+      "63119fc8d237f3f820fbce62",
+      "63119fc8d237f3f820fbce77",
+      "63119fc8d237f3f820fbce7a"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce45",
+    "hierarchy": "5.2.2",
+    "full_path": "Introduction > 5 > 5.2 > 5.2.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce46",
+    "hierarchy": "5.2.2.1",
+    "full_path": "Introduction > 5 > 5.2 > 5.2.2 > 5.2.2.1",
+    "entities": [
+      "5.2.2.4",
+      "5.5.1"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce49",
+      "63119fc8d237f3f820fbce58"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce47",
+    "hierarchy": "5.2.2.2",
+    "full_path": "Introduction > 5 > 5.2 > 5.2.2 > 5.2.2.2",
+    "entities": [
+      "6.6"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce7d"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce48",
+    "hierarchy": "5.2.2.3",
+    "full_path": "Introduction > 5 > 5.2 > 5.2.2 > 5.2.2.3",
+    "entities": [
+      "5.4"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce4d"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce49",
+    "hierarchy": "5.2.2.4",
+    "full_path": "Introduction > 5 > 5.2 > 5.2.2 > 5.2.2.4",
+    "entities": [
+      "5.3.2",
+      "Annex 3",
+      "paragraph 6",
+      "paragraph 6.6"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce4c",
+      "63119fc8d237f3f820fbced9",
+      "63119fc8d237f3f820fbce62",
+      "63119fc8d237f3f820fbce7d"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd0e1",
+    "hierarchy": "5.2.3",
+    "full_path": "Introduction > 5 > 5.2 > 5.2.3",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd0e2",
+    "hierarchy": "5.2.3.1",
+    "full_path": "Introduction > 5 > 5.2 > 5.2.3 > 5.2.3.1",
+    "entities": [
+      "5.2.3.4",
+      "5.5.1"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbd0e5",
+      "63119fc8d237f3f820fbce58"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd0e3",
+    "hierarchy": "5.2.3.2",
+    "full_path": "Introduction > 5 > 5.2 > 5.2.3 > 5.2.3.2",
+    "entities": [
+      "6.7"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce80"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd0e4",
+    "hierarchy": "5.2.3.3",
+    "full_path": "Introduction > 5 > 5.2 > 5.2.3 > 5.2.3.3",
+    "entities": [
+      "5.4"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce4d"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd0e5",
+    "hierarchy": "5.2.3.4",
+    "full_path": "Introduction > 5 > 5.2 > 5.2.3 > 5.2.3.4",
+    "entities": [
+      "paragraph 5.3.2",
+      "Annex 3",
+      "paragraph 6"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce4c",
+      "63119fc8d237f3f820fbced9",
+      "63119fc8d237f3f820fbce62"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce4a",
+    "hierarchy": "5.3",
+    "full_path": "Introduction > 5 > 5.3",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce4b",
+    "hierarchy": "5.3.1",
+    "full_path": "Introduction > 5 > 5.3 > 5.3.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce4c",
+    "hierarchy": "5.3.2",
+    "full_path": "Introduction > 5 > 5.3 > 5.3.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce4d",
+    "hierarchy": "5.4",
+    "full_path": "Introduction > 5 > 5.4",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce4e",
+    "hierarchy": "5.4.1",
+    "full_path": "Introduction > 5 > 5.4 > 5.4.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce4f",
+    "hierarchy": "5.4.1.1",
+    "full_path": "Introduction > 5 > 5.4 > 5.4.1 > 5.4.1.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce50",
+    "hierarchy": "5.4.1.2",
+    "full_path": "Introduction > 5 > 5.4 > 5.4.1 > 5.4.1.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce51",
+    "hierarchy": "5.4.1.3",
+    "full_path": "Introduction > 5 > 5.4 > 5.4.1 > 5.4.1.3",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce52",
+    "hierarchy": "5.4.1.4",
+    "full_path": "Introduction > 5 > 5.4 > 5.4.1 > 5.4.1.4",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce53",
+    "hierarchy": "5.4.2",
+    "full_path": "Introduction > 5 > 5.4 > 5.4.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce54",
+    "hierarchy": "5.4.2.1",
+    "full_path": "Introduction > 5 > 5.4 > 5.4.2 > 5.4.2.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce55",
+    "hierarchy": "5.4.2.2",
+    "full_path": "Introduction > 5 > 5.4 > 5.4.2 > 5.4.2.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd082",
+    "hierarchy": "5.4.2.3",
+    "full_path": "Introduction > 5 > 5.4 > 5.4.2 > 5.4.2.3",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce56",
+    "hierarchy": "5.4.3",
+    "full_path": "Introduction > 5 > 5.4 > 5.4.3",
+    "entities": [
+      "5.5.4"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce5b"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd084",
+    "hierarchy": "5.4.4",
+    "full_path": "Introduction > 5 > 5.4 > 5.4.4",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce57",
+    "hierarchy": "5.5",
+    "full_path": "Introduction > 5 > 5.5",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce58",
+    "hierarchy": "5.5.1",
+    "full_path": "Introduction > 5 > 5.5 > 5.5.1",
+    "entities": [
+      "5.2.1.1",
+      "5.2.2.1",
+      "5.2.3.1"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce41",
+      "63119fc8d237f3f820fbce46",
+      "63119fc8d237f3f820fbd0e2"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce59",
+    "hierarchy": "5.5.2",
+    "full_path": "Introduction > 5 > 5.5 > 5.5.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce5a",
+    "hierarchy": "5.5.3",
+    "full_path": "Introduction > 5 > 5.5 > 5.5.3",
+    "entities": [
+      "5.5.4"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce5b"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce5b",
+    "hierarchy": "5.5.4",
+    "full_path": "Introduction > 5 > 5.5 > 5.5.4",
+    "entities": [
+      "Paragraph 5.1.4.1"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce38"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce5c",
+    "hierarchy": "5.5.5",
+    "full_path": "Introduction > 5 > 5.5 > 5.5.5",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce5d",
+    "hierarchy": "5.5.6",
+    "full_path": "Introduction > 5 > 5.5 > 5.5.6",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce5e",
+    "hierarchy": "5.5.7",
+    "full_path": "Introduction > 5 > 5.5 > 5.5.7",
+    "entities": [
+      "Paragraph 5.5.4"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce5b"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce5f",
+    "hierarchy": "5.6",
+    "full_path": "Introduction > 5 > 5.6",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce60",
+    "hierarchy": "5.6.1",
+    "full_path": "Introduction > 5 > 5.6 > 5.6.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce61",
+    "hierarchy": "5.6.2",
+    "full_path": "Introduction > 5 > 5.6 > 5.6.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce62",
+    "hierarchy": "Paragraph 6",
+    "full_path": "Introduction > Paragraph 6",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce63",
+    "hierarchy": "6.1",
+    "full_path": "Introduction > 6 > 6.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce64",
+    "hierarchy": "6.1.1",
+    "full_path": "Introduction > 6 > 6.1 > 6.1.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce65",
+    "hierarchy": "6.1.1.1",
+    "full_path": "Introduction > 6 > 6.1 > 6.1.1 > 6.1.1.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce67",
+    "hierarchy": "6.1.1.2",
+    "full_path": "Introduction > 6 > 6.1 > 6.1.1 > 6.1.1.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce68",
+    "hierarchy": "6.1.1.3",
+    "full_path": "Introduction > 6 > 6.1 > 6.1.1 > 6.1.1.3",
+    "entities": [
+      "Appendix 2",
+      "Annex 6"
+    ],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce69",
+    "hierarchy": "6.1.1.4",
+    "full_path": "Introduction > 6 > 6.1 > 6.1.1 > 6.1.1.4",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce6a",
+    "hierarchy": "6.1.2",
+    "full_path": "Introduction > 6 > 6.1 > 6.1.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce6b",
+    "hierarchy": "6.1.3",
+    "full_path": "Introduction > 6 > 6.1 > 6.1.3",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce6c",
+    "hierarchy": "6.1.4",
+    "full_path": "Introduction > 6 > 6.1 > 6.1.4",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce6d",
+    "hierarchy": "6.1.5",
+    "full_path": "Introduction > 6 > 6.1 > 6.1.5",
+    "entities": [
+      "Paragraph 5.2.1",
+      "Paragraph 5.2.2",
+      "Paragraph 5.2.3"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce40",
+      "63119fc8d237f3f820fbce45",
+      "63119fc8d237f3f820fbd0e1"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd08d",
+    "hierarchy": "6.1.6",
+    "full_path": "Introduction > 6 > 6.1 > 6.1.6",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce6e",
+    "hierarchy": "6.2",
+    "full_path": "Introduction > 6 > 6.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce6f",
+    "hierarchy": "6.2.1",
+    "full_path": "Introduction > 6 > 6.2 > 6.2.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce70",
+    "hierarchy": "6.2.2",
+    "full_path": "Introduction > 6 > 6.2 > 6.2.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce71",
+    "hierarchy": "6.2.2.1",
+    "full_path": "Introduction > 6 > 6.2 > 6.2.2 > 6.2.2.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce72",
+    "hierarchy": "6.2.2.2",
+    "full_path": "Introduction > 6 > 6.2 > 6.2.2 > 6.2.2.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcf6c",
+    "hierarchy": "6.2.3",
+    "full_path": "Introduction > 6 > 6.2 > 6.2.3",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63c93cc2f500acafbfc501e9",
+    "hierarchy": "6.2.4",
+    "full_path": "Introduction > 6 > 6.2 > 6.2.4",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce73",
+    "hierarchy": "6.3",
+    "full_path": "Introduction > 6 > 6.3",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce74",
+    "hierarchy": "6.3.1",
+    "full_path": "Introduction > 6 > 6.3 > 6.3.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce75",
+    "hierarchy": "6.3.2",
+    "full_path": "Introduction > 6 > 6.3 > 6.3.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd0eb",
+    "hierarchy": "6.3.3",
+    "full_path": "Introduction > 6 > 6.3 > 6.3.3",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce76",
+    "hierarchy": "6.3.4",
+    "full_path": "Introduction > 6 > 6.3 > 6.3.4",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce77",
+    "hierarchy": "6.4",
+    "full_path": "Introduction > 6 > 6.4",
+    "entities": [
+      "Paragraph 5.2.1.4",
+      "Paragraph 5.2.1.3"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce44",
+      "63119fc8d237f3f820fbce43"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce7a",
+    "hierarchy": "6.5",
+    "full_path": "Introduction > 6 > 6.5",
+    "entities": [
+      "paragraph 5.2.1.3"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce43"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce7d",
+    "hierarchy": "6.6",
+    "full_path": "Introduction > 6 > 6.6",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce7e",
+    "hierarchy": "6.6.1",
+    "full_path": "Introduction > 6 > 6.6 > 6.6.1",
+    "entities": [
+      "Paragraph 5.2.2.4",
+      "Paragraph 5.2.2.3",
+      "6.3.2"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce49",
+      "63119fc8d237f3f820fbce48",
+      "63119fc8d237f3f820fbce75"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce7f",
+    "hierarchy": "6.6.2",
+    "full_path": "Introduction > 6 > 6.6 > 6.6.2",
+    "entities": [
+      "Paragraph 6.2.4"
+    ],
+    "targetIDs": [
+      "63c93cc2f500acafbfc501e9"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce80",
+    "hierarchy": "6.7",
+    "full_path": "Introduction > 6 > 6.7",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd0f0",
+    "hierarchy": "6.7.1",
+    "full_path": "Introduction > 6 > 6.7 > 6.7.1",
+    "entities": [
+      "Paragraph 5.2.3.4",
+      "Paragraph 5.2.3.3",
+      "Paragraph 6.3.3"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbd0e5",
+      "63119fc8d237f3f820fbd0e4",
+      "63119fc8d237f3f820fbd0eb"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd0f1",
+    "hierarchy": "6.7.2",
+    "full_path": "Introduction > 6 > 6.7 > 6.7.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce81",
+    "hierarchy": "6.8",
+    "full_path": "Introduction > 6 > 6.8",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce82",
+    "hierarchy": "6.8.1",
+    "full_path": "Introduction > 6 > 6.8 > 6.8.1",
+    "entities": [
+      "Paragraph 5.5.4",
+      "Paragraph 5.4.1"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce5b",
+      "63119fc8d237f3f820fbce4e"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce83",
+    "hierarchy": "6.8.2",
+    "full_path": "Introduction > 6 > 6.8 > 6.8.2",
+    "entities": [
+      "Paragraph 5.5.4"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce5b"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce84",
+    "hierarchy": "6.9",
+    "full_path": "Introduction > 6 > 6.9",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce85",
+    "hierarchy": "6.9.1",
+    "full_path": "Introduction > 6 > 6.9 > 6.9.1",
+    "entities": [
+      "Paragraph 5.4.2",
+      "Paragraph 5.4.3",
+      "Paragraph 5.4.1"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce53",
+      "63119fc8d237f3f820fbce56",
+      "63119fc8d237f3f820fbce4e"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd06b",
+    "hierarchy": "6.10",
+    "full_path": "Introduction > 6 > 6.10",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd06c",
+    "hierarchy": "6.10.1",
+    "full_path": "Introduction > 6 > 6.10 > 6.10.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd06d",
+    "hierarchy": "6.10.2",
+    "full_path": "Introduction > 6 > 6.10 > 6.10.2",
+    "entities": [
+      "5.2.1.3",
+      "5.2.1.4",
+      "5.2.2.3",
+      "5.2.2.4",
+      "5.2.3.3",
+      "5.2.3.4"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce43",
+      "63119fc8d237f3f820fbce44",
+      "63119fc8d237f3f820fbce48",
+      "63119fc8d237f3f820fbce49",
+      "63119fc8d237f3f820fbd0e4",
+      "63119fc8d237f3f820fbd0e5"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd06e",
+    "hierarchy": "6.10.3",
+    "full_path": "Introduction > 6 > 6.10 > 6.10.3",
+    "entities": [
+      "Annex 3"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbced9"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce86",
+    "hierarchy": "Paragraph 7",
+    "full_path": "Introduction > Paragraph 7",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce87",
+    "hierarchy": "7.1",
+    "full_path": "Introduction > 7 > 7.1",
+    "entities": [
+      "Paragraph 2.4"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce13"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce88",
+    "hierarchy": "7.1.1",
+    "full_path": "Introduction > 7 > 7.1 > 7.1.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce89",
+    "hierarchy": "7.1.2",
+    "full_path": "Introduction > 7 > 7.1 > 7.1.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce8a",
+    "hierarchy": "7.2",
+    "full_path": "Introduction > 7 > 7.2",
+    "entities": [
+      "4.3"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce2a"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce8b",
+    "hierarchy": "7.3",
+    "full_path": "Introduction > 7 > 7.3",
+    "entities": [
+      "Annex 1"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce98"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce8c",
+    "hierarchy": "Paragraph 8",
+    "full_path": "Introduction > Paragraph 8",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce8d",
+    "hierarchy": "8.1",
+    "full_path": "Introduction > 8 > 8.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce8e",
+    "hierarchy": "8.2",
+    "full_path": "Introduction > 8 > 8.2",
+    "entities": [
+      "Paragraph 5"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce32"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce8f",
+    "hierarchy": "8.3",
+    "full_path": "Introduction > 8 > 8.3",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce90",
+    "hierarchy": "Paragraph 9",
+    "full_path": "Introduction > Paragraph 9",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce91",
+    "hierarchy": "9.1",
+    "full_path": "Introduction > 9 > 9.1",
+    "entities": [
+      "Paragraph 8"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce8c"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce92",
+    "hierarchy": "9.2",
+    "full_path": "Introduction > 9 > 9.2",
+    "entities": [
+      "Annex 1"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce98"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce93",
+    "hierarchy": "Paragraph 10",
+    "full_path": "Introduction > Paragraph 10",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce94",
+    "hierarchy": "",
+    "full_path": "Introduction > 10",
+    "entities": [
+      "Annex 1"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbce98"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce95",
+    "hierarchy": "Paragraph 11",
+    "full_path": "Introduction > Paragraph 11",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce96",
+    "hierarchy": "",
+    "full_path": "Introduction > 11",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce97",
+    "hierarchy": "",
+    "full_path": "Introduction > 11",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd063",
+    "hierarchy": "Paragraph 12",
+    "full_path": "Introduction > Paragraph 12",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd064",
+    "hierarchy": "12.1",
+    "full_path": "Introduction > 12 > 12.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd0f9",
+    "hierarchy": "12.1.1",
+    "full_path": "Introduction > 12 > 12.1 > 12.1.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd0fa",
+    "hierarchy": "12.1.2",
+    "full_path": "Introduction > 12 > 12.1 > 12.1.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd0fb",
+    "hierarchy": "12.1.3",
+    "full_path": "Introduction > 12 > 12.1 > 12.1.3",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd0fc",
+    "hierarchy": "12.1.4",
+    "full_path": "Introduction > 12 > 12.1 > 12.1.4",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd0fd",
+    "hierarchy": "12.1.5",
+    "full_path": "Introduction > 12 > 12.1 > 12.1.5",
+    "entities": [
+      "Paragraph 12.1.4"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbd0fc"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd065",
+    "hierarchy": "12.2",
+    "full_path": "Introduction > 12 > 12.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd0ff",
+    "hierarchy": "12.2.1",
+    "full_path": "Introduction > 12 > 12.2 > 12.2.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd100",
+    "hierarchy": "12.2.2",
+    "full_path": "Introduction > 12 > 12.2 > 12.2.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd101",
+    "hierarchy": "12.2.3",
+    "full_path": "Introduction > 12 > 12.2 > 12.2.3",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd102",
+    "hierarchy": "12.2.4",
+    "full_path": "Introduction > 12 > 12.2 > 12.2.4",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd103",
+    "hierarchy": "12.2.5",
+    "full_path": "Introduction > 12 > 12.2 > 12.2.5",
+    "entities": [
+      "Paragraph 12.2.4"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbd102"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd066",
+    "hierarchy": "12.3",
+    "full_path": "Introduction > 12 > 12.3",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd105",
+    "hierarchy": "12.3.1",
+    "full_path": "Introduction > 12 > 12.3 > 12.3.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd106",
+    "hierarchy": "12.3.2",
+    "full_path": "Introduction > 12 > 12.3 > 12.3.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd067",
+    "hierarchy": "12.4",
+    "full_path": "Introduction > 12 > 12.4",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd068",
+    "hierarchy": "12.5",
+    "full_path": "Introduction > 12 > 12.5",
+    "entities": [
+      "Paragraph 12.4"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbd067"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd069",
+    "hierarchy": "12.6",
+    "full_path": "Introduction > 12 > 12.6",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce98",
+    "hierarchy": "Annex 1",
+    "full_path": "Annex 1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce99",
+    "hierarchy": "",
+    "full_path": "Annex 1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce9a",
+    "hierarchy": "",
+    "full_path": "Annex 1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce9b",
+    "hierarchy": "",
+    "full_path": "Annex 1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce9c",
+    "hierarchy": "Paragraph 1",
+    "full_path": "Annex 1 > Paragraph 1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce9d",
+    "hierarchy": "Paragraph 2",
+    "full_path": "Annex 1 > Paragraph 2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce9e",
+    "hierarchy": "Paragraph 3",
+    "full_path": "Annex 1 > Paragraph 3",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbce9f",
+    "hierarchy": "Paragraph 4",
+    "full_path": "Annex 1 > Paragraph 4",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcea0",
+    "hierarchy": "Paragraph 5",
+    "full_path": "Annex 1 > Paragraph 5",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcea1",
+    "hierarchy": "Paragraph 6",
+    "full_path": "Annex 1 > Paragraph 6",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcea2",
+    "hierarchy": "Paragraph 7",
+    "full_path": "Annex 1 > Paragraph 7",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcea3",
+    "hierarchy": "Paragraph 8",
+    "full_path": "Annex 1 > Paragraph 8",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcea4",
+    "hierarchy": "Paragraph 9",
+    "full_path": "Annex 1 > Paragraph 9",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcea5",
+    "hierarchy": "Paragraph 10",
+    "full_path": "Annex 1 > Paragraph 10",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcf9d",
+    "hierarchy": "10.1",
+    "full_path": "Annex 1 > 10 > 10.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcf9e",
+    "hierarchy": "",
+    "full_path": "Annex 1 > 10 > 10.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcf9f",
+    "hierarchy": "10.2",
+    "full_path": "Annex 1 > 10 > 10.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcfa0",
+    "hierarchy": "",
+    "full_path": "Annex 1 > 10 > 10.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd108",
+    "hierarchy": "10.3",
+    "full_path": "Annex 1 > 10 > 10.3",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcea7",
+    "hierarchy": "11",
+    "full_path": "Annex 1 > 11",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcea8",
+    "hierarchy": "Paragraph 12",
+    "full_path": "Annex 1 > Paragraph 12",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcea9",
+    "hierarchy": "Paragraph 13",
+    "full_path": "Annex 1 > Paragraph 13",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbceaa",
+    "hierarchy": "Paragraph 14",
+    "full_path": "Annex 1 > Paragraph 14",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbceab",
+    "hierarchy": "Paragraph 15",
+    "full_path": "Annex 1 > Paragraph 15",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbceac",
+    "hierarchy": "Annex 2",
+    "full_path": "Annex 2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcead",
+    "hierarchy": "",
+    "full_path": "Annex 2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbceae",
+    "hierarchy": "Annex 3",
+    "full_path": "Annex 3",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbceaf",
+    "hierarchy": "Paragraph 1",
+    "full_path": "Annex 3 > Paragraph 1",
+    "entities": [
+      "Annex 3 paragraph 2.4",
+      "Annex 3 paragraph 2.3"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbceb4",
+      "63119fc8d237f3f820fbceb3"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbceb0",
+    "hierarchy": "Paragraph 2",
+    "full_path": "Annex 3 > Paragraph 2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbceb1",
+    "hierarchy": "2.1",
+    "full_path": "Annex 3 > 2 > 2.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbceb2",
+    "hierarchy": "2.2",
+    "full_path": "Annex 3 > 2 > 2.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbceb3",
+    "hierarchy": "2.3",
+    "full_path": "Annex 3 > 2 > 2.3",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbceb4",
+    "hierarchy": "2.4",
+    "full_path": "Annex 3 > 2 > 2.4",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbceb5",
+    "hierarchy": "2.5",
+    "full_path": "Annex 3 > 2 > 2.5",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbceb6",
+    "hierarchy": "2.6",
+    "full_path": "Annex 3 > 2 > 2.6",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbceb7",
+    "hierarchy": "2.7",
+    "full_path": "Annex 3 > 2 > 2.7",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbceb8",
+    "hierarchy": "2.8",
+    "full_path": "Annex 3 > 2 > 2.8",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbceb9",
+    "hierarchy": "2.9",
+    "full_path": "Annex 3 > 2 > 2.9",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbceba",
+    "hierarchy": "2.10",
+    "full_path": "Annex 3 > 2 > 2.10",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcebb",
+    "hierarchy": "Paragraph 3",
+    "full_path": "Annex 3 > Paragraph 3",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcebc",
+    "hierarchy": "Paragraph 3.1",
+    "full_path": "Annex 3 > 3 > Paragraph 3.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcebd",
+    "hierarchy": "3.1.1",
+    "full_path": "Annex 3 > 3 > 3.1 > 3.1.1",
+    "entities": [
+      "Annex 3 paragraph 3",
+      "Annex 3 paragraph 3.4.4",
+      "Annex 3 paragraph 4",
+      "Annex 3 paragraph 3.4.4"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbcebb",
+      "63119fc8d237f3f820fbced0",
+      "63119fc8d237f3f820fbced3"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcebe",
+    "hierarchy": "3.2",
+    "full_path": "Annex 3 > 3 > 3.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcebf",
+    "hierarchy": "3.2.1",
+    "full_path": "Annex 3 > 3 > 3.2 > 3.2.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcec0",
+    "hierarchy": "3.2.2",
+    "full_path": "Annex 3 > 3 > 3.2 > 3.2.2",
+    "entities": [
+      "Annex 3 paragraph 2.8"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbceb8"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcec1",
+    "hierarchy": "3.2.3",
+    "full_path": "Annex 3 > 3 > 3.2 > 3.2.3",
+    "entities": [
+      "Annex 3 paragraph 2.9"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbceb9"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcec2",
+    "hierarchy": "3.3",
+    "full_path": "Annex 3 > 3 > 3.3",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcec3",
+    "hierarchy": "3.3.1",
+    "full_path": "Annex 3 > 3 > 3.3 > 3.3.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcec4",
+    "hierarchy": "3.3.2",
+    "full_path": "Annex 3 > 3 > 3.3 > 3.3.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcec5",
+    "hierarchy": "3.3.3",
+    "full_path": "Annex 3 > 3 > 3.3 > 3.3.3",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcec6",
+    "hierarchy": "3.3.4",
+    "full_path": "Annex 3 > 3 > 3.3 > 3.3.4",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcec7",
+    "hierarchy": "3.3.5",
+    "full_path": "Annex 3 > 3 > 3.3 > 3.3.5",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcec8",
+    "hierarchy": "3.3.5.1",
+    "full_path": "Annex 3 > 3 > 3.3 > 3.3.5 > 3.3.5.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcec9",
+    "hierarchy": "3.4",
+    "full_path": "Annex 3 > 3 > 3.4",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbceca",
+    "hierarchy": "3.4.1",
+    "full_path": "Annex 3 > 3 > 3.4 > 3.4.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcecb",
+    "hierarchy": "3.4.2",
+    "full_path": "Annex 3 > 3 > 3.4 > 3.4.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcecc",
+    "hierarchy": "3.4.3",
+    "full_path": "Annex 3 > 3 > 3.4 > 3.4.3",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcecd",
+    "hierarchy": "3.4.3.1",
+    "full_path": "Annex 3 > 3 > 3.4 > 3.4.3 > 3.4.3.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcece",
+    "hierarchy": "3.4.3.2",
+    "full_path": "Annex 3 > 3 > 3.4 > 3.4.3 > 3.4.3.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcecf",
+    "hierarchy": "3.4.3.3",
+    "full_path": "Annex 3 > 3 > 3.4 > 3.4.3 > 3.4.3.3",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbced0",
+    "hierarchy": "3.4.4",
+    "full_path": "Annex 3 > 3 > 3.4 > 3.4.4",
+    "entities": [
+      "Annex 3 paragraph 4"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbced3"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbced1",
+    "hierarchy": "3.4.4.1",
+    "full_path": "Annex 3 > 3 > 3.4 > 3.4.4 > 3.4.4.1",
+    "entities": [
+      "Annex 3 paragraph 3.4.4"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbced0"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbced2",
+    "hierarchy": "3.4.4.2",
+    "full_path": "Annex 3 > 3 > 3.4 > 3.4.4 > 3.4.4.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbced3",
+    "hierarchy": "Paragraph 4",
+    "full_path": "Annex 3 > Paragraph 4",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbced4",
+    "hierarchy": "4.1",
+    "full_path": "Annex 3 > 4 > 4.1",
+    "entities": [
+      "Annex 3 paragraph 3"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbcebb"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbced5",
+    "hierarchy": "4.1.1",
+    "full_path": "Annex 3 > 4 > 4.1 > 4.1.1",
+    "entities": [
+      "Annex 3 paragraph 3.2"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbcebe"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbced6",
+    "hierarchy": "4.1.2",
+    "full_path": "Annex 3 > 4 > 4.1 > 4.1.2",
+    "entities": [
+      "Annex 3 paragraph 3.4"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbcec9"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbced7",
+    "hierarchy": "4.1.2.1",
+    "full_path": "Annex 3 > 4 > 4.1 > 4.1.2 > 4.1.2.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbced8",
+    "hierarchy": "Paragraph 5",
+    "full_path": "Annex 3 > Paragraph 5",
+    "entities": [
+      "Annex 3 Appendix 1"
+    ],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbced9",
+    "hierarchy": "Annex 3",
+    "full_path": "Annex 3",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbceda",
+    "hierarchy": "",
+    "full_path": "Annex 3 - Appendix 1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcedb",
+    "hierarchy": "Paragraph 1",
+    "full_path": "Annex 3 - Appendix 1 > Paragraph 1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcedc",
+    "hierarchy": "1.1",
+    "full_path": "Annex 3 - Appendix 1 > 1 > 1.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcedd",
+    "hierarchy": "1.2",
+    "full_path": "Annex 3 - Appendix 1 > 1 > 1.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcede",
+    "hierarchy": "1.3",
+    "full_path": "Annex 3 - Appendix 1 > 1 > 1.3",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcedf",
+    "hierarchy": "1.4",
+    "full_path": "Annex 3 - Appendix 1 > 1 > 1.4",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcee0",
+    "hierarchy": "1.5",
+    "full_path": "Annex 3 - Appendix 1 > 1 > 1.5",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcee1",
+    "hierarchy": "1.6",
+    "full_path": "Annex 3 - Appendix 1 > 1 > 1.6",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcee2",
+    "hierarchy": "1.7",
+    "full_path": "Annex 3 - Appendix 1 > 1 > 1.7",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcee3",
+    "hierarchy": "Paragraph 2",
+    "full_path": "Annex 3 - Appendix 1 > Paragraph 2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcee4",
+    "hierarchy": "2.1",
+    "full_path": "Annex 3 - Appendix 1 > 2 > 2.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcee5",
+    "hierarchy": "2.2",
+    "full_path": "Annex 3 - Appendix 1 > 2 > 2.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcee6",
+    "hierarchy": "2.3",
+    "full_path": "Annex 3 - Appendix 1 > 2 > 2.3",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcee7",
+    "hierarchy": "Paragraph 3",
+    "full_path": "Annex 3 - Appendix 1 > Paragraph 3",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcee8",
+    "hierarchy": "3.1",
+    "full_path": "Annex 3 - Appendix 1 > 3 > 3.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcee9",
+    "hierarchy": "3.2",
+    "full_path": "Annex 3 - Appendix 1 > 3 > 3.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbceea",
+    "hierarchy": "3.3",
+    "full_path": "Annex 3 - Appendix 1 > 3 > 3.3",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbceeb",
+    "hierarchy": "3.4",
+    "full_path": "Annex 3 - Appendix 1 > 3 > 3.4",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbceec",
+    "hierarchy": "3.5",
+    "full_path": "Annex 3 - Appendix 1 > 3 > 3.5",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbceed",
+    "hierarchy": "3.6",
+    "full_path": "Annex 3 - Appendix 1 > 3 > 3.6",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbceee",
+    "hierarchy": "3.7",
+    "full_path": "Annex 3 - Appendix 1 > 3 > 3.7",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbceef",
+    "hierarchy": "3.8",
+    "full_path": "Annex 3 - Appendix 1 > 3 > 3.8",
+    "entities": [
+      "Annex 3 paragraph 4.1.1"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbced5"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcef0",
+    "hierarchy": "3.9",
+    "full_path": "Annex 3 - Appendix 1 > 3 > 3.9",
+    "entities": [
+      "Annex 3 paragraph 4.1.2"
+    ],
+    "targetIDs": [
+      "63119fc8d237f3f820fbced6"
+    ]
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcef1",
+    "hierarchy": "3.10",
+    "full_path": "Annex 3 - Appendix 1 > 3 > 3.10",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcef2",
+    "hierarchy": "3.11",
+    "full_path": "Annex 3 - Appendix 1 > 3 > 3.11",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcef3",
+    "hierarchy": "",
+    "full_path": "Annex 3 - Appendix 1 > 3 > 3.11",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcef4",
+    "hierarchy": "3.12",
+    "full_path": "Annex 3 - Appendix 1 > 3 > 3.12",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcef5",
+    "hierarchy": "",
+    "full_path": "Annex 3 - Appendix 1 > 3 > 3.12",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcef6",
+    "hierarchy": "3.13",
+    "full_path": "Annex 3 - Appendix 1 > 3 > 3.13",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbcef7",
+    "hierarchy": "Annex 3 - Appendix 2",
+    "full_path": "Annex 3 - Appendix 2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd09c",
+    "hierarchy": "",
+    "full_path": "Annex 3 - Appendix 2",
+    "entities": [
+      "Annex 3 subparagraph 2"
+    ],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd09e",
+    "hierarchy": "",
+    "full_path": "Annex 3 - Appendix 2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd09f",
+    "hierarchy": "1.1",
+    "full_path": "Annex 3 - Appendix 2 > 1.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd0a0",
+    "hierarchy": "1.2",
+    "full_path": "Annex 3 - Appendix 2 > 1.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd0a1",
+    "hierarchy": "Figure 1",
+    "full_path": "Annex 3 - Appendix 2 > 1.2 > Figure 1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd0a2",
+    "hierarchy": "",
+    "full_path": "Annex 3 - Appendix 2 > 1.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd0a3",
+    "hierarchy": "2.1",
+    "full_path": "Annex 3 - Appendix 2 > 2.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd0a4",
+    "hierarchy": "2.2",
+    "full_path": "Annex 3 - Appendix 2 > 2.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd0a5",
+    "hierarchy": "Figure 2",
+    "full_path": "Annex 3 - Appendix 2 > 2.2 > Figure 2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd0a6",
+    "hierarchy": "",
+    "full_path": "Annex 3 - Appendix 2 > 2.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd0a7",
+    "hierarchy": "3.1",
+    "full_path": "Annex 3 - Appendix 2 > 3.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd0a8",
+    "hierarchy": "Paragraph 3.2",
+    "full_path": "Annex 3 - Appendix 2 > Paragraph 3.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd0a9",
+    "hierarchy": "Figure 3",
+    "full_path": "Annex 3 - Appendix 2 > 3.2 > Figure 3",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd0aa",
+    "hierarchy": "",
+    "full_path": "Annex 3 - Appendix 2 > 3.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd0ab",
+    "hierarchy": "4.1",
+    "full_path": "Annex 3 - Appendix 2 > 4.1",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd0ac",
+    "hierarchy": "Paragraph 4.2",
+    "full_path": "Annex 3 - Appendix 2 > Paragraph 4.2",
+    "entities": [],
+    "targetIDs": []
+  },
+  {
+    "paragraphId": "63119fc8d237f3f820fbd0ad",
+    "hierarchy": "Figure 4",
+    "full_path": "Annex 3 - Appendix 2 > 4.2 > Figure 4",
+    "entities": [],
+    "targetIDs": []
+  }
+]
