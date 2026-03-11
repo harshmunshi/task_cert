@@ -13,6 +13,11 @@ The focus was completely on understanding the data, heirarcy and brainstorming s
 uv sync
 ```
 
+Export LLM key
+```bash
+export OPENAI_API_KEY="sk-...."
+```
+
 ## Commands
 ### Document / Data Understanding
 ```bash
