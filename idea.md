@@ -93,6 +93,15 @@ The training data contains paragraphs with various types of internal references 
 
 **Output(s)**: For each paragraph, a list of `targetIds`.
 
+### Metrics
+The ground-truth targetIds arrays make this a retrieval/linking task. Standard IR metrics apply:
+
+| Metric    | Formula                  | What it measures             |
+|-----------|--------------------------|------------------------------|
+| Precision | TP / (TP + FP)           | Are predicted links correct? |
+| Recall    | TP / (TP + FN)           | Are all true links found?    |
+| F1        | Harmonic mean of P & R   | Overall balance              |
+
 ## Design Documentation (Solution Space)
 ### Option A : Rule Based / Regex + Index LookUp
 **Core Idea**
