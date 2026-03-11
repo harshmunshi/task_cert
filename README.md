@@ -114,3 +114,11 @@ uv run python eval.py
 
 ────────────────────────────────────────────
 ```
+
+## FUTURE DIRECTIONS
+
+* Currenly the solution is hybrid (using LLMs + Regex). From here we can go two ways:
+    * First, making a complete LLM embedding based matching pipeline. This is abstract away all the hard regex maintanence and offer more flexibility.
+    * Secondly what we can do is keep it hybrid, but better understand the structure and patterns emerging from the headings. This would require more time.
+
+* From a different angle, another approach would be to create a graph out of the document and have relations between the node and boil the final task down to a link prediction problem.
